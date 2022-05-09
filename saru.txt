@@ -4,3 +4,7 @@ sarugit入門の練習です。
 下条作成
 
 追加します。1042
+
+remote repogitory gitHub
+https://github.com/m4881shimojo/saruTest.git
+追加　20220509/1157
